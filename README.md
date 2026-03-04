@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Bhargav-bit567
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Bhargav 👋
 
-<!---
-Bhargav-bit567/Bhargav-bit567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 CSE (AI) Student at Chitkara University  
+🤖 Interested in Machine Learning, NLP and AI Systems  
+
+## 🚀 Currently Learning
+- Machine Learning
+- Natural Language Processing
+- Data Structures & Algorithms
+
+## 🧠 Projects
+🔹 Content-Based Movie Recommendation & Genre Classification System  
+- Built using **TF-IDF, Cosine Similarity, and LinearSVC**
+- Includes **content recommendation and multi-label genre prediction**
+
+🔹 Recipe Platform  
+- Web platform built with **JavaScript**
+
+## 🛠 Tech Stack
+Python • Pandas • NumPy • Scikit-learn • Git • JavaScript
+
+## 📫 Contact
+📧 bhargavsharma090@gmail.com
