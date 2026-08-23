@@ -33,7 +33,7 @@ Content-based recommendation system using TF-IDF, Cosine Similarity, and LinearS
 </td>
 <td width="50%" valign="top">
 
-**📈 FinVision**
+**📈 FinFision**
 Stock market simulator for new investors to practice with demo cash before trading real money — includes live market news, buy/sell simulation, and stock comparison tools.
 `JavaScript` `API Integration`
 <!-- [🔗 Repo](your-link-here) -->
