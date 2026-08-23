@@ -78,11 +78,10 @@ A dynamic quiz application with real-time scoring.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Bhargav-bit567&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Bhargav-bit567" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargav-bit567&theme=minimal&hide_border=true" width="90%" />
 </p>
 
 ---
