@@ -14,7 +14,6 @@
 ### 🎓 About Me
 - 🎓 3rd-year CSE (AI & ML) student at **Chitkara University**
 - 🤖 Interested in **Machine Learning, NLP, and AI Systems**
-- 🚀 Currently learning **Machine Learning, Natural Language Processing, and Data Structures & Algorithms**
 - 💼 Looking for opportunities in **Data Science / Machine Learning** roles
 - 📫 Reach me at **bhargavsharma090@gmail.com**
 
@@ -78,11 +77,13 @@ A dynamic quiz application with real-time scoring.
 
 ---
 
-### 📈 Activity
+### 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargav-bit567&theme=minimal&hide_border=true" width="90%" />
-</p>
+| | |
+|---|---|
+| **Machine Learning** | ████████░░ 80% |
+| **Natural Language Processing** | ██████░░░░ 60% |
+| **Data Structures & Algorithms** | ███████░░░ 70% |
 
 ---
 
