@@ -33,9 +33,9 @@ Content-based recommendation system using TF-IDF, Cosine Similarity, and LinearS
 </td>
 <td width="50%" valign="top">
 
-**🗺️ Himachal Pradesh Geospatial Map**
-Interactive Leaflet.js map visualizing village-level population and building footprints, with OSM, Esri imagery, Overpass API, and Nominatim geocoding.
-`JavaScript` `Leaflet.js` `Overpass API`
+**📈 FinVision**
+Stock market simulator for new investors to practice with demo cash before trading real money — includes live market news, buy/sell simulation, and stock comparison tools.
+`JavaScript` `API Integration`
 <!-- [🔗 Repo](your-link-here) -->
 
 </td>
